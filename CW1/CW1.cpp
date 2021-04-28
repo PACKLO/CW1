@@ -409,7 +409,7 @@ int main()
 				}
 			}
 		}
-		cout << "Число которое я загадал - " << ActualNumber;
+		cout << "Число которое я загадал - " << ActualNumber << endl;
 		break;
 	case 2: // Логические операторы 2;
 		cout << "Вы выбрали: Калькулятор." << endl;
@@ -482,9 +482,12 @@ int main()
 		break;
 
 	default:
-		cout << "Задание не найдено.";
+		cout << "Задание не найдено.\n";
 		break;
 	}
-	MakeTheSUSFace();
+	if (WorksNumber = 228) // Секретная строчка кода.
+	{
+		MakeTheSUSFace();
+	}
 }
 // Массивы 1, Функции 2, Логические операторы 3, Циклы 2.
