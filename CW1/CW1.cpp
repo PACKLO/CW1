@@ -6,6 +6,53 @@ using namespace std;
 //Functions for the Case 3.
 int PCPoint = 0, PlayerPoints = 0, PCDrop = 0, PlayerDrop = 0, drop = 0, turn = 0, PlayerIsFirst = 0;
 string PlayerName;
+// case 9 function
+const int row = 5;
+const int col = 5;
+int mr[row][col];
+int k = 0, babaika = 0;
+void MM()
+{
+	srand(time(NULL));
+	for (int i = 0; i < row; i++)
+	{
+		for (int j = 0; j < col; j++)
+		{
+			k++;
+			mr[i][j] = 30 + rand() % 31;
+			cout << mr[i][j] << " ";
+			if (k == 5)
+			{
+				cout << "\n";
+				k = 0;
+			}
+		}
+	}
+	for (int i = 0; i < row; i++)
+	{
+		for (int j = 0; j < col; j++)
+		{
+			if (babaika < mr[i][j])
+			{
+				babaika = mr[i][j];
+			}
+		}
+	}
+	cout << "Максимальное: " << babaika << "\n";
+	for (int i = 0; i < row; i++)
+	{
+		for (int j = 0; j < col; j++)
+		{
+			if (babaika > mr[i][j])
+			{
+				babaika = mr[i][j];
+			}
+		}
+	}
+	cout << "Минимальное: " << babaika;
+}
+
+string funnyhaha;
 void Queue()
 {
 	srand(time(NULL));
@@ -341,38 +388,44 @@ int main()
 		}
 
 		break;
-	case 3: // Функции 1 + Логические операторы 3.
+	case 3: // Функции 1 + Логические операторы 3 + Циклы 2.
+		cout << "Вы выбрали: Игра в кубик." << endl;
 		cout << "Добро пожаловать, дорогой игрок! Введи свое имя: ";
 		cin >> PlayerName;
 		cout << "Начинаем игру!" << endl;
 		Queue();
-
 		if (PlayerIsFirst == 1)
 		{
-			PlayerThrow();
-			PCThrow();
-			PlayerThrow();
-			PCThrow();
-			PlayerThrow();
-			PCThrow();
-			PlayerThrow();
-			PCThrow();
+			for (int i = 0; i < 5; i ++)
+			{
+				PlayerThrow();
+				cout << "Введи что нибудь чтобы продолжить:\n\n";
+				cin >> funnyhaha;
+				PCThrow();
+				cout << "Введи что нибудь чтобы продолжить:\n\n";
+				cin >> funnyhaha;
+			}
 		}
 		else
 		{
-			PCThrow();
-			PlayerThrow();
-			PCThrow();
-			PlayerThrow();
-			PCThrow();
-			PlayerThrow();
-			PCThrow();
-			PlayerThrow();
+			for (int i = 0; i < 5; i++)
+			{
+				PCThrow();
+				cout << "Введи что нибудь чтобы продолжить:\n\n";
+				cin >> funnyhaha;
+				PlayerThrow();
+				cout << "Введи что нибудь чтобы продолжить:\n\n";
+				cin >> funnyhaha;
+			}
 		}
 		cout << "Итог невероятной битвы:\nВаши очки: " << PlayerPoints << endl;
 		cout << "Очки компьютера: " << PCPoint << endl;
 		WinCheck();
 
+		break;
+	case 4: // Массивы 1 + Функции 2
+		cout << "Вы выбрали: Матрица из чисел, их минимальное и максимальное." << endl;
+		MM();
 		break;
 
 	default:
@@ -380,3 +433,4 @@ int main()
 		break;
 	}
 }
+// Массивы 1, Функции 2, Логические операторы 3, Циклы 2.
