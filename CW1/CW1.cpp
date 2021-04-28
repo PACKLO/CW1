@@ -378,7 +378,7 @@ int main()
 	int TheGuess, ActualNumber, Guesses = 0;
 	int FirstNumber, SecondNumber, Result;
 	string Move;
-	cout << "Выберите задание (1-3): "; // ВЫБОР ЗАДАНИЯ!
+	cout << "Выберите задание (1-3, 228): "; // ВЫБОР ЗАДАНИЯ!
 	cin >> WorksNumber;
 	switch (WorksNumber)
 	{
@@ -485,9 +485,6 @@ int main()
 		cout << "Задание не найдено.\n";
 		break;
 	}
-	if (WorksNumber = 228) // Секретная строчка кода.
-	{
-		MakeTheSUSFace();
-	}
+	MakeTheSUSFace();
 }
 // Массивы 1, Функции 2, Логические операторы 3, Циклы 2.
