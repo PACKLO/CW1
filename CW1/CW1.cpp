@@ -6,7 +6,7 @@ using namespace std;
 //Functions for the Case 3.
 int PCPoint = 0, PlayerPoints = 0, PCDrop = 0, PlayerDrop = 0, drop = 0, turn = 0, PlayerIsFirst = 0;
 string PlayerName;
-// case 9 function
+//Function for the Case 4.
 const int row = 5;
 const int col = 5;
 int mr[row][col];
