@@ -432,5 +432,57 @@ int main()
 		cout << "Задание не найдено.";
 		break;
 	}
+
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmddhhdmdmmdhhhhdddmmddddddddddddhhyyydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhyyhhmmmdmmmdddddmmmmmmdmmmdmmmmmmdhyyhymMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMMNmdhhhdmmmddmmmdmmmdmmmmdmmmmddddmmmmmddhhysshNMMMMMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMmhyhdddmmmdydmmmddddddddddhdddhhhhhdddddddhyssyssydNMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMNdhhddmmmmmmdyyddddddhhhyyyysssoooooosssyyyyhhhhhhhyyshmMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMmddddmmNNmmmddhhhhhyyysssoo++////:::::////++ossyhhhddddhhhNMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMdddmmmmNmmmdhhhyyhhysoo++ +///:::--------:://///+ooyhhddddhyhmMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMNdhhdmmmmmddhhyyyyyhho++++/////:::----------:://://+osyhdddddddNMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMmhhhddmNNmdhyyyyyysshy++ +///////:::-----..-::::://://+ooyhdddmdddNMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMmhhhhmmmNmhyysssssssyhs++++//////:::----...--::::://///++syhddmmmddMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMhhdddNNmdhyysssssyyyys++++++/////:::::---..--::/:///////+oshhddddmdNMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMNyyddmNmdhyysssssyyyyo +///////////:::::-------:::/:::////+osyhddddddmMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMmhddmmmdhyyyyyssssyss++///////////::::::-------:::://////++syhddddddmMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMmdddmmmdyyyyyyyyssoo++//////////////:::::------:::://////++syhdddmmdNMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMmddmmmmdyyyyyyysooo++ + / ++++///+/////::/::::-.--::::///////+syhddmmmdmMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMddmmmmdyyyyyyysoo++++++++++++++++/////////::::///////////+oyhdmmdddNMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMmmmmmmhyyyyhhhyyssoo++oo++++++++++++++++++++ + ooooooo++////+oyddmddhMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMNmmmmhyyyhhhhdddhhhyysssssooooo++ + ooooosssyhhhddhhhyyysso//+sddmmmmMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMdmmdhhhhyysyyhhhhhhhhhhyyysssoo + oossssyyhdddddddhhyyyyyyo++ohdmmNdNMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMmmmNhdhyysydddddddddddhhhyyyso++ + ossssyhdmdhhhyyhdddhyso / :: / hmmmmydMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMmmNNhyyyyhmmdhyyhdhhhdddhhyys + / :: / osshdddhyhdhhy / shhhho +//+/ydhyhohMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMhmmmyssyyhdddhyhNmNNNhdddhhy++ / :-: +sddhhhyhhdmdhsoo + osso++//ydhso+hMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMModmmsssyyyhhhhhhddhhhddddddo++//--/oyhhhhhyyso++/+oo+o+/////shdyo+hMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMsdmmssyyhhhhhhyyyhhhhddddhho +///-:/++ossssssssssso+///+oso++shdso+hMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMdhddysyyyyhhhhhhhhhyysyhhhhs +//::/++++++++oooosoo+//////+so+ohhso/hMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMdddhyyyyysssoooooooooosyhhyso + / : / ++++++++oooooooo++///////osoyys/:yMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMdmmhyyyysso++++++ + ooosyyyyyso + :: / ++++++++ + o++++++ +//+//////+sos/::oMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMNdhmhyyyssooo++ + oossyyyyyyyyoo + / : / ++oo++++ossyysso++++++++//+oo/:::oMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMmyddyyyssooooossyyyyyyyyyysoo++ + / ++++++++o++osyhhyyssooooo + o++::::yMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMddhyyysssssyyhhhyyyyyyyyyso++++ + / ++++ + oo++ + oossyhhhyyso / oso++//+yMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMmyyyyyyyhhdhhhhyyyyyyyyyso + / ++++osssso++++ooossyyhddhyo + ysosdNNMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMdyyyyyhdhdhhhhhyhhhhyhhhyyssossyysooo++ + oossyyhhdddmhs + yssmMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMhyyyyhyhdddddhhyyyyhhhhhhyyyyysooooooosyyyhddddhhdmys + hsyMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMmyyysyysyyhmmmddhhyyhhhhhhyysooosssyyssyyyhmmhyyydysosssdMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMhyyssssssyhdmmyyyyyyyyyyyyssssssooo / :++ + / ydyoosshosossyMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMNyyysssssyyhdms / +/ ++ / oooooso / ://.-:..:.:ohsooooysoossyNMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMmysysssssyyhdds : -: -.::.-- / -.``-``..`-:shyo + ooosoosshNMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMmhyyyssssyyhddho / -- - ... - : ....... - ::oyyys++++soosshMMMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMMNdyyyssssyyhhddhyss / :: : / : -- - / oooso + yyso++++o + symMMMMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMMMMNdyysssyyyhhhddhyyyyyhyyyyyo + / -/ osso +//+++sdNMMMMMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhysssyyyhhyhysoooooo++ / ++ ://+ooo++//++omMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMMMMMNNmmmhhyssyyyyyyyyyssoo++++++ + ooooo++ +////+syysdddmNMMMMMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMMMMMMNNmdhyyyhhhhhsyyyyysssyyssssoooooo++++++ +/////oooo++ho/+ydNNMMMMMMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMMMMMMNNmmdhdhsyssymyyhhhyyyyyyysssoooooooo++++++++/////+soo+++sds+/::+shmNNMMMMMMMMMMMMM" << endl;
+	cout << "MMMMMMMMMMMMNmmdhhhhyyydyyssymmyyhhhhyyyyysssssooooooooo++++ +////+ossoo+++ods/////:::/+sydNMMMMMMMMM" << endl;
+	cout << "MMMMMNNmdhyyyhhhyyyyyyhdyssshmyyyhhhhhyyssssssoooooooo++++///+/++shyyso++++hy////::://///:/+sdNMMMMM" << endl;
+	cout << "mddhhyyyyyyyhhhhhyhyyyhdyssshysyhhhhhhhhsooosooo++++++ +///////+ossssyyso+/+hs/////:::::////////ohNMM" << endl;
+	cout << "++oosyyyhyyyhhhhhyyyyyydysyydyyhhhhhhhhhhssoooo++++++++++ / ++++oyyssooyhys++h +//////::/://::::///:/+y" << endl;
+	cout << "osyhhhhhhyyyhhhhyyyysyyhyyyyddyhhhhyhyyhhhyssoooo++++++++++ + oyhyssso++shhyo +/////////:::/:::::::////" << endl;
+	cout << "yhhhhhhhyyyyhhhhyyyssyhhhyyyhmhhhhhyyyyyhhhhysoooooooooooosyhhyssooo++ + osyy + / +////////:::///:::::::/" << endl;
+	cout << "hhhhhhhhhhyyyhhhyyyssyhhhyyyhmdhhhhhyyyyhhhhddhhyyysssyyyhhhyysoooo++ / ++++++++ +/////:://////////::::" << endl;
 }
 // Массивы 1, Функции 2, Логические операторы 3, Циклы 2.
