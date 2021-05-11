@@ -378,7 +378,7 @@ int main()
 	int TheGuess, ActualNumber, Guesses = 0;
 	int FirstNumber, SecondNumber, Result;
 	string Move;
-	cout << "Выберите задание (1-3, 228): "; // ВЫБОР ЗАДАНИЯ!
+	cout << "Выберите задание (1-3): "; // ВЫБОР ЗАДАНИЯ!
 	cin >> WorksNumber;
 	switch (WorksNumber)
 	{
